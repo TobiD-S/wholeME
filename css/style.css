@@ -720,7 +720,7 @@ a.btn-minimal{
 	border-color:#202020;
 }
 .subscribe-form > .subscribe-input::-webkit-input-placeholder{
-	color:rgba(255,255,255,.8);
+	color:#202020;
 }
 .subscribe-form > .subscribe-btn{
 	position:absolute;
