@@ -103,6 +103,7 @@ p{
 .col-section-header > p{
 	color:rgba(0,0,0,.4);
 	margin-top:0;
+	font-size: 20px;
 }
 
 
@@ -390,7 +391,7 @@ a.btn-minimal{
 	color:#202020;
 }
 .features-text > p{
-	font-size:16px;
+	font-size:20px;
 	color:rgba(0,0,0,.4);
 	margin:0;
 	font-weight:500;
@@ -417,6 +418,7 @@ a.btn-minimal{
 .feature > .content > p{
 	color:rgba(0,0,0,.4);
 	margin:0;
+	font-size: 20px;
 }
 
 
@@ -438,6 +440,7 @@ a.btn-minimal{
 	color:rgba(0,0,0,.4);
 	margin:0;
 	margin-bottom:40px;
+	font-size: 20px;
 }
 
 .phones{
@@ -607,10 +610,8 @@ a.btn-minimal{
 }
 .col-feature > .content > p{
 	color:rgba(0,0,0,.4);
-	font-size:16px;
+	font-size: 20px;
 }
-
-
 
 .pricing-section{
 	padding:100px 0;
@@ -676,6 +677,7 @@ a.btn-minimal{
 	padding:8px 0;
 	color:rgba(0,0,0,.4);
 	font-weight:500;
+	font-size: 20px;
 }
 
 
@@ -1047,6 +1049,7 @@ footer{
 footer p{
 	color:rgba(0,0,0,.4);
 	margin:0;
+	font-size: 20px;
 }
 
 
